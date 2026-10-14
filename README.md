@@ -6,7 +6,7 @@
 **Problem**
 
 This project showcases quantitative data analysis and 
-exploratory data analysis (EDA) undertaken as part of my Master's research. 
+exploratory data analysis (EDA) undertaken as part of my ICT case study of South Africa. 
 It demonstrates my ability to independently construct and consolidate a research
 dataset from published sources, prepare and clean inconsistent data for 
 analysis, and use statistical summaries and visualisations to investigate 
